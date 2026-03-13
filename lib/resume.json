@@ -1,0 +1,114 @@
+{
+  "basics": {
+    "name": "Faizan Yousaf",
+    "title": "Full-Stack Developer & AI Engineer",
+    "email": "faizanyousaf140@gmail.com",
+    "phone": "(+92) 345-7956200, (+92) 300-6659200",
+    "location": "Faisalabad, Pakistan",
+    "links": [
+      { "platform": "LinkedIn", "url": "https://www.linkedin.com/in/faizan-yousaf1" },
+      { "platform": "GitHub", "url": "https://github.com/Faizanyousaf140" }
+    ],
+    "summary": "Computer Science student with experience in full-stack web development using React, Next.js, Node.js and Django. Built AI-assisted features using NLP, Generative AI, and Retrieval-Augmented Generation (RAG). Comfortable working with REST and FastAPI services and SQL/NoSQL databases. Interested in building practical applications that combine AI with modern web systems."
+  },
+  "education": [
+    {
+      "institution": "National University of Computer and Emerging sciences",
+      "degree": "BS Computer Science",
+      "startDate": "August 2022",
+      "endDate": "June 2026",
+      "cgpa": "3.30/4.0",
+      "courses": ["Artificial Intelligence", "Web Programming", "Database Systems", "NLP", "Object-Oriented Programming", "Data Structures and Algorithms"]
+    }
+  ],
+  "experience": [
+    {
+      "company": "Digital Genei",
+      "role": "Intern (Onsite)",
+      "startDate": "June 2025",
+      "endDate": "July 2025",
+      "bullets": [
+        "Developed a speech-to-text pipeline using Whisper for meeting transcription and applied NLP summarization to extract key discussion points.",
+        "Implemented semantic search using FAISS for efficient vector indexing and similarity-based retrieval."
+      ]
+    },
+    {
+      "company": "Skillify Zone",
+      "role": "Intern (Remote)",
+      "startDate": "July 2025",
+      "endDate": "August 2025",
+      "bullets": [
+        "Built a loan approval prediction system using Pandas and Scikit-learn with structured dataset preprocessing and feature engineering.",
+        "Performed data cleaning, exploratory data analysis, and model evaluation to improve prediction accuracy."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "HealthMate (Final Year Project)",
+      "stack": ["Flutter", "Dart", "Firebase", "Firestore"],
+      "bullets": [
+        "Developed a cross-platform mobile health application with Flutter and Dart that enables users to securely submit lifestyle data, health metrics, and genetic SNP questionnaire responses.",
+        "Implemented secure authentication, real-time data storage, and wearable device integration using Firebase services to enable continuous health monitoring and structured data collection."
+      ]
+    },
+    {
+      "title": "AI Knowledge OS",
+      "stack": ["Next.js", "React", "Node.js", "Express.js", "MongoDB", "RAG", "NLP", "Vector Embeddings"],
+      "bullets": [
+        "Built a full-stack application for managing project notes and documentation with semantic search using RAG and vector embeddings.",
+        "Implemented JWT-based authentication and an AI chat interface that retrieves and summarizes relevant project information."
+      ]
+    },
+    {
+      "title": "RAG for diagnostic reasoning for Clinical Notes",
+      "stack": ["NLP", "Prompt engineering", "Python", "Vector database", "MIMIC-IV"],
+      "bullets": [
+        "Implemented a Retrieval-Augmented Generation (RAG) based clinical Q&A system using MIMIC-IV healthcare dataset, integrating LLMs with a Streamlit interface to enable intelligent medical information exploration.",
+        "Designed a context-aware medical assistant that retrieves relevant clinical records in real time using vector embeddings and semantic similarity search to generate context-aware responses."
+      ]
+    },
+    {
+      "title": "VerbatimAI",
+      "stack": ["Python", "Machine Learning", "NLP", "Streamlit", "Vector Embeddings"],
+      "bullets": [
+        "Developed a meeting analysis system that converts recorded meetings into structured insights using speech-to-text transcription and NLP-based summarization.",
+        "Designed an interactive Streamlit interface enabling semantic search and insight discovery from meeting transcripts using embedding-based similarity retrieval."
+      ]
+    }
+    ,
+    {
+      "title": "Neural-Machine-Translation-Urdu-to-Roman-Urdu",
+      "stack": ["PyTorch", "BiLSTM", "Bahdanau Attention", "NLP"],
+      "bullets": [
+        "Neural Machine Translation system for Urdu → Roman Urdu using a BiLSTM encoder-decoder with Bahdanau attention.",
+        "Optimized for poetic text and trained on ~21k authentic verses from Rekhta Ghazals."
+      ],
+      "notes": "Specialized for poetry; pre-processing and tokenization tailored for Urdu script."
+    },
+    {
+      "title": "Conversational-Chatbot-in-Urdu",
+      "stack": ["Transformer", "PyTorch", "Beam Search", "Top-k Sampling", "Jupyter Notebook"],
+      "bullets": [
+        "Conversational chatbot in Urdu using a Transformer encoder-decoder architecture supporting multiple decoding strategies (Greedy, Beam Search, Top-k).",
+        "Includes notebook examples demonstrating training and decoding."
+      ],
+      "notes": "Includes example notebooks and evaluation scripts; suitable for conversational and short-form poetic responses."
+    }
+  ],
+  "skills": {
+    "languages": ["C", "C++", "Python", "JavaScript", "C#"],
+    "frontend": ["React", "Next.js"],
+    "backend": ["Node.js", "Express.js", "Django", "FastAPI", "Firebase", "RESTful APIs"],
+    "database": ["MongoDB", "MySQL", "Firebase Firestore"],
+    "ai_ml": ["NLP", "Generative AI", "Supervised & Unsupervised Learning", "Fine-tuning", "FAISS", "Feature Engineering"],
+    "tools": ["Git", "GitHub", "VS Code", "Linux", "Postman", "Docker (basic)"]
+  },
+  "certifications": ["Coursera – Machine Learning Specialization (Supervised Learning, Unsupervised Learning, Advanced Learning Algorithms)"],
+  "achievements": [
+    { "context": "Digital Genei", "item": "Developed automated meeting transcription and NLP summarization pipeline." },
+    { "context": "Skillify Zone", "item": "Improved loan prediction accuracy via advanced feature engineering." },
+    { "context": "HealthMate", "item": "Integrated genetic SNP questionnaires with wearable device data." }
+  ],
+  "extra": []
+}

@@ -1,0 +1,17 @@
+# Normalize text files to LF in the repository, let Git handle checkout conversion
+* text=auto
+
+# Do not treat node_modules or build artifacts as text
+node_modules/** -text
+.next/** -text
+
+# Treat common binary files as binary to avoid line-ending conversions
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.pdf binary
+*.ico binary
+
+# Ensure lockfiles remain as-is
+package-lock.json -text

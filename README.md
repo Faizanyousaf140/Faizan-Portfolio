@@ -1,9 +1,9 @@
 ## Faizan Yousaf — Portfolio
 
-[![GitHub stars](https://img.shields.io/github/stars/Faizanyousaf140?style=flat-square)](https://github.com/Faizanyousaf140)
-[![Top language](https://img.shields.io/github/languages/top/Faizanyousaf140?style=flat-square)](https://github.com/Faizanyousaf140)
+[![GitHub stars](https://img.shields.io/github/stars/Faizanyousaf140/portfolio?style=flat-square)](https://github.com/Faizanyousaf140/portfolio)
+[![Top language](https://img.shields.io/github/languages/top/Faizanyousaf140/portfolio?style=flat-square)](https://github.com/Faizanyousaf140/portfolio)
 [![License](https://img.shields.io/badge/license-MIT-blue?style=flat-square)](LICENSE)
-[![Website](https://img.shields.io/website?url=http%3A%2F%2Flocalhost%3A3000&style=flat-square)](http://localhost:3000)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-green?style=flat-square)](https://faizan-portfolio.vercel.app)
 
 **Full-Stack Developer & AI Engineer** — web apps, RAG, NLP, and generative AI.
 
@@ -79,7 +79,7 @@ npm start
 
 Include a screenshot in `public/` and reference it here. Example:
 
-![Portfolio screenshot](public/screenshot.png)
+![Portfolio screenshot](public/faizan.jpeg)
 
 **Contact**
 

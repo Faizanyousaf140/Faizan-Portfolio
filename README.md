@@ -7,7 +7,7 @@
 **Full-Stack Developer & AI Engineer** — web apps, RAG, NLP, and generative AI.
 
 🌐 **Live Demo**
-[View Live Portfolio](faizan7-portfolio.vercel.app) → 
+→[View Live Portfolio](faizan7-portfolio.vercel.app) 
 
 **About**
 

@@ -1,7 +1,6 @@
 ## Faizan Yousaf — Portfolio
 
-[![GitHub stars](https://img.shields.io/github/stars/Faizanyousaf140/portfolio?style=flat-square)](https://github.com/Faizanyousaf140/portfolio)
-[![Top language](https://img.shields.io/github/languages/top/Faizanyousaf140/portfolio?style=flat-square)](https://github.com/Faizanyousaf140/portfolio)
+
 [![License](https://img.shields.io/badge/license-MIT-blue?style=flat-square)](LICENSE)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live-green?style=flat-square)](https://faizan-portfolio.vercel.app)
 

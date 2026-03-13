@@ -99,4 +99,3 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 
 ---
 
-*Generated automatically. Edit this README to add more personalized details, screenshots, and CI badges.*

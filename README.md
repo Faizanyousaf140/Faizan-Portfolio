@@ -5,6 +5,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live-green?style=flat-square)](https://faizan-portfolio.vercel.app)
 
 **Full-Stack Developer & AI Engineer** — web apps, RAG, NLP, and generative AI.
+
 🌐 **Live Demo**
 [View Live Portfolio](faizan7-portfolio.vercel.app) → 
 **About**
